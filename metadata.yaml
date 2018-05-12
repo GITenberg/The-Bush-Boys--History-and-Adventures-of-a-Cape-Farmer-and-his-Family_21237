@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6260
     wikipedia: http://en.wikipedia.org/wiki/Mayne_Reid
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21237#The-Bush-Boys--History-and-Adventures-of-a-Cape-Farmer-and-his-Family
 gutenberg_bookshelf: Children's Fiction
 gutenberg_issued: '2007-04-27'
 gutenberg_type: Text
